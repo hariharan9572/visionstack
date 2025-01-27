@@ -15,7 +15,7 @@
 <header id="main-header">
     <div class="container">
         <div class="logo">
-            <img src="logo.png" alt="VisionStack Logo">
+            <img src="{{ asset('assets/VisionStack_Logo(white).png') }}" alt="VisionStack Logo">
         </div>
         <nav id="navbar">
             <ul>
@@ -154,7 +154,7 @@
 <footer id="footer">
     <div class="footer-container">
         <div class="footer-logo">
-            <img src="path_to_logo.jpg" alt="VisionStack Logo">
+            <img src="{{ asset('assets/VisionStack_Logo(white).png') }}" alt="VisionStack Logo">
         </div>
         <div class="footer-nav">
             <ul>
