@@ -4,13 +4,13 @@
 <head>
     <meta charset="utf-8">
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
-    <title>VisionStack - Custom Software & SaaS Solutions</title>
-    <meta name="description" content="VisionStack provides enterprise-grade custom software development and SaaS solutions to help businesses optimize operations and drive growth.">
+    <title>Visionstack - Custom Software & SaaS Solutions</title>
+    <meta name="description" content="Visionstack provides enterprise-grade custom software development and SaaS solutions to help businesses optimize operations and drive growth.">
     <meta name="keywords" content="SaaS, Software Development, Cloud Solutions, API Integration, Custom Applications, Digital Transformation">
 
     <!-- Favicons -->
     <link href="{{ asset('assets/img/favicon.png') }}" rel="icon">
-    <link href="{{ asset('assets/img/favicon.png') }}" rel="VisionStack-icon">
+    <link href="{{ asset('assets/img/favicon.png') }}" rel="Visionstack-icon">
 
     <!-- Fonts -->
     <link href="https://fonts.googleapis.com" rel="preconnect">
@@ -28,8 +28,8 @@
     <link href="{{ asset('css/main.css') }}" rel="stylesheet">
 
     <!-- =======================================================
-    * Template Name: VisionStack
-    * Template URL: https://bootstrapmade.com/VisionStack-free-multi-purpose-html-template/
+    * Template Name: Visionstack
+    * Template URL: https://bootstrapmade.com/Visionstack-free-multi-purpose-html-template/
     * Updated: Aug 07 2024 with Bootstrap v5.3.3
     * Author: BootstrapMade.com
     * License: https://bootstrapmade.com/license/
@@ -89,7 +89,7 @@
         <img src="assets/img/hero-bg.jpg" alt="" data-aos="fade-in">
 
         <div class="container d-flex flex-column align-items-center">
-            <h2 data-aos="fade-up" data-aos-delay="100"><span class="typed" data-typed-items="VisionStack, Enterprise SaaS Solutions, Cloud Applications, Custom Software, Digital Transformation, API Integrations"></span></h2>
+            <h2 data-aos="fade-up" data-aos-delay="100"><span class="typed" data-typed-items="Visionstack, Enterprise SaaS Solutions, Cloud Applications, Custom Software, Digital Transformation, API Integrations"></span></h2>
             <p data-aos="fade-up" data-aos-delay="200">Transforming businesses with innovative software solutions and SaaS platforms</p>
             <div class="d-flex mt-4" data-aos="fade-up" data-aos-delay="300">
                 <a href="#about" class="btn-get-started">Get Started</a>
@@ -108,13 +108,13 @@
                 <div class="col-lg-6" data-aos="fade-up" data-aos-delay="100">
                     <h3>Empowering businesses with innovative software solutions and SaaS platforms</h3>
                     <img src="assets/img/about.jpg" class="img-fluid rounded-4 mb-4" alt="">
-                    <p>At VisionStack, we develop custom software and SaaS applications that help businesses optimize operations, increase productivity, and drive growth. Our solutions are designed to scale with your business needs while maintaining enterprise-grade security and performance.</p>
+                    <p>At Visionstack, we develop custom software and SaaS applications that help businesses optimize operations, increase productivity, and drive growth. Our solutions are designed to scale with your business needs while maintaining enterprise-grade security and performance.</p>
                     <p>With expertise in cloud technology, API integrations, and microservices architecture, we provide end-to-end software development services from initial consultation to deployment and ongoing support. We're committed to delivering high-quality solutions that address your unique business challenges.</p>
                 </div>
                 <div class="col-lg-6" data-aos="fade-up" data-aos-delay="250">
                     <div class="content ps-0 ps-lg-5">
                         <p class="fst-italic">
-                            VisionStack specializes in developing scalable, secure, and user-friendly software solutions that drive business innovation and efficiency.
+                            Visionstack specializes in developing scalable, secure, and user-friendly software solutions that drive business innovation and efficiency.
                         </p>
                         <ul>
                             <li><i class="bi bi-check-circle-fill"></i> <span>Custom software development focused on your unique business requirements</span></li>
@@ -542,7 +542,7 @@
                             </div>
                             <p>
                                 <i class="bi bi-quote quote-icon-left"></i>
-                                <span>VisionStack delivered an exceptional SaaS platform that transformed our business operations. Their attention to detail and commitment to quality was evident throughout the project. The solution they built has significantly improved our efficiency and customer satisfaction.</span>
+                                <span>Visionstack delivered an exceptional SaaS platform that transformed our business operations. Their attention to detail and commitment to quality was evident throughout the project. The solution they built has significantly improved our efficiency and customer satisfaction.</span>
                                 <i class="bi bi-quote quote-icon-right"></i>
                             </p>
                         </div>
@@ -558,7 +558,7 @@
                             </div>
                             <p>
                                 <i class="bi bi-quote quote-icon-left"></i>
-                                <span>Working with VisionStack was a game-changer for our company. Their expert developers created a custom CRM system that perfectly aligned with our unique business processes. The solution is intuitive, scalable, and has dramatically improved our customer relationships.</span>
+                                <span>Working with Visionstack was a game-changer for our company. Their expert developers created a custom CRM system that perfectly aligned with our unique business processes. The solution is intuitive, scalable, and has dramatically improved our customer relationships.</span>
                                 <i class="bi bi-quote quote-icon-right"></i>
                             </p>
                         </div>
@@ -574,7 +574,7 @@
                             </div>
                             <p>
                                 <i class="bi bi-quote quote-icon-left"></i>
-                                <span>The inventory management system developed by VisionStack has revolutionized our retail operations. Their team took time to understand our needs and delivered a solution that exceeded our expectations. The system's real-time analytics have been crucial for our business growth.</span>
+                                <span>The inventory management system developed by Visionstack has revolutionized our retail operations. Their team took time to understand our needs and delivered a solution that exceeded our expectations. The system's real-time analytics have been crucial for our business growth.</span>
                                 <i class="bi bi-quote quote-icon-right"></i>
                             </p>
                         </div>
@@ -590,7 +590,7 @@
                             </div>
                             <p>
                                 <i class="bi bi-quote quote-icon-left"></i>
-                                <span>VisionStack's expertise in secure financial applications is impressive. They developed a mobile banking solution for us with enterprise-grade security features. Their development process was transparent, and they delivered on time and within budget. Truly a reliable technology partner.</span>
+                                <span>Visionstack's expertise in secure financial applications is impressive. They developed a mobile banking solution for us with enterprise-grade security features. Their development process was transparent, and they delivered on time and within budget. Truly a reliable technology partner.</span>
                                 <i class="bi bi-quote quote-icon-right"></i>
                             </p>
                         </div>
@@ -606,7 +606,7 @@
                             </div>
                             <p>
                                 <i class="bi bi-quote quote-icon-left"></i>
-                                <span>Our healthcare management system by VisionStack has transformed patient care at our facilities. The solution seamlessly integrated with our existing systems while meeting all regulatory requirements. Their ongoing support has been exceptional, making them a true partner in our digital transformation journey.</span>
+                                <span>Our healthcare management system by Visionstack has transformed patient care at our facilities. The solution seamlessly integrated with our existing systems while meeting all regulatory requirements. Their ongoing support has been exceptional, making them a true partner in our digital transformation journey.</span>
                                 <i class="bi bi-quote quote-icon-right"></i>
                             </p>
                         </div>
@@ -953,7 +953,7 @@
         <div class="row gy-4">
             <div class="col-lg-4 col-md-6 footer-about">
                 <a href="index.html" class="logo d-flex align-items-center">
-                    <span class="sitename">VisionStack</span>
+                    <span class="sitename transparent-text">Visionstack</span>
                 </a>
                 <div class="footer-contact pt-3">
                     <p>NO 7/70, INDIVIDUAL,<br>
@@ -1008,13 +1008,13 @@
     </div>
 
     <div class="container copyright text-center mt-4">
-        <p>© <span>Copyright</span> <strong class="px-1 sitename">VisionStack</strong> <span>All Rights Reserved</span></p>
+        <p>© <span>Copyright</span> <strong class="px-1 sitename">Visionstack</strong> <span>All Rights Reserved</span></p>
         <div class="credits">
             <!-- All the links in the footer should remain intact. -->
             <!-- You can delete the links only if you've purchased the pro version. -->
             <!-- Licensing information: https://bootstrapmade.com/license/ -->
             <!-- Purchase the pro version with working PHP/AJAX contact form: [buy-url] -->
-            Designed by <a href="https://visionstack.in/">VisionStack</a> Distributed by <a href="https://visionstack.in">VisionStack</a>
+            Designed by <a href="https://Visionstack.in/">Visionstack</a> Distributed by <a href="https://Visionstack.in">Visionstack</a>
         </div>
     </div>
 
