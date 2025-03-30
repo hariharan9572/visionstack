@@ -52,6 +52,10 @@
   --contrast-color: #ffffff;
 }
 
+.transparent-text {
+    opacity: 0.8; /* Adjust the value as needed */
+}
+
 /* Smooth scroll */
 :root {
   scroll-behavior: smooth;
