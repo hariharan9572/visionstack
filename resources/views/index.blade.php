@@ -9,8 +9,8 @@
     <meta name="keywords" content="SaaS, Software Development, Cloud Solutions, API Integration, Custom Applications, Digital Transformation">
 
     <!-- Favicons -->
-    <link href="{{ asset('assets/img/VS.png') }}" rel="icon">
-    <link href="{{ asset('assets/img/VS.png') }}" rel="VisionStack-icon">
+    <link href="{{ asset('assets/img/vs.png') }}" rel="icon">
+    <link href="{{ asset('assets/img/vs.png') }}" rel="VisionStack-icon">
 
     <!-- Fonts -->
     <link href="https://fonts.googleapis.com" rel="preconnect">
