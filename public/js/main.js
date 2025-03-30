@@ -207,3 +207,17 @@
   document.addEventListener('scroll', navmenuScrollspy);
 
 })();
+
+document.addEventListener('DOMContentLoaded', () => {
+    const typedElement = document.querySelector('.typed');
+    if (typedElement) {
+        const typedItems = typedElement.getAttribute('data-typed-items').split(', ');
+        new Typed('.typed', {
+            strings: typedItems,
+            typeSpeed: 100,
+            backSpeed: 50,
+            backDelay: 2000,
+            loop: true
+        });
+    }
+});
