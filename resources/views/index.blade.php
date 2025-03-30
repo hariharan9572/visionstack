@@ -4,9 +4,9 @@
 <head>
     <meta charset="utf-8">
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
-    <title>Index - VisionStack Bootstrap Template</title>
-    <meta name="description" content="">
-    <meta name="keywords" content="">
+    <title>VisionStack - Custom Software & SaaS Solutions</title>
+    <meta name="description" content="VisionStack provides enterprise-grade custom software development and SaaS solutions to help businesses optimize operations and drive growth.">
+    <meta name="keywords" content="SaaS, Software Development, Cloud Solutions, API Integration, Custom Applications, Digital Transformation">
 
     <!-- Favicons -->
     <link href="{{ asset('assets/img/favicon.png') }}" rel="icon">
@@ -89,8 +89,8 @@
         <img src="assets/img/hero-bg.jpg" alt="" data-aos="fade-in">
 
         <div class="container d-flex flex-column align-items-center">
-            <h2 data-aos="fade-up" data-aos-delay="100"><span class="typed" data-typed-items="VisionStack, Software Development, IT Solutions, Tech Innovations, Digital Transformation, Cloud Services"></span></h2>
-            <p data-aos="fade-up" data-aos-delay="200">We are team of talented developer making websites with Bootstrap</p>
+            <h2 data-aos="fade-up" data-aos-delay="100"><span class="typed" data-typed-items="VisionStack, Enterprise SaaS Solutions, Cloud Applications, Custom Software, Digital Transformation, API Integrations"></span></h2>
+            <p data-aos="fade-up" data-aos-delay="200">Transforming businesses with innovative software solutions and SaaS platforms</p>
             <div class="d-flex mt-4" data-aos="fade-up" data-aos-delay="300">
                 <a href="#about" class="btn-get-started">Get Started</a>
                 <a href="https://www.youtube.com/watch?v=Y7f98aduVJ8" class="glightbox btn-watch-video d-flex align-items-center"><i class="bi bi-play-circle"></i><span>Watch Video</span></a>
@@ -106,25 +106,23 @@
 
             <div class="row gy-4">
                 <div class="col-lg-6" data-aos="fade-up" data-aos-delay="100">
-                    <h3>Voluptatem dignissimos provident laboris nisi ut aliquip ex ea commodo</h3>
+                    <h3>Empowering businesses with innovative software solutions and SaaS platforms</h3>
                     <img src="assets/img/about.jpg" class="img-fluid rounded-4 mb-4" alt="">
-                    <p>Ut fugiat ut sunt quia veniam. Voluptate perferendis perspiciatis quod nisi et. Placeat debitis quia recusandae odit et consequatur voluptatem. Dignissimos pariatur consectetur fugiat voluptas ea.</p>
-                    <p>Temporibus nihil enim deserunt sed ea. Provident sit expedita aut cupiditate nihil vitae quo officia vel. Blanditiis eligendi possimus et in cum. Quidem eos ut sint rem veniam qui. Ut ut repellendus nobis tempore doloribus debitis explicabo similique sit. Accusantium sed ut omnis beatae neque deleniti repellendus.</p>
+                    <p>At VisionStack, we develop custom software and SaaS applications that help businesses optimize operations, increase productivity, and drive growth. Our solutions are designed to scale with your business needs while maintaining enterprise-grade security and performance.</p>
+                    <p>With expertise in cloud technology, API integrations, and microservices architecture, we provide end-to-end software development services from initial consultation to deployment and ongoing support. We're committed to delivering high-quality solutions that address your unique business challenges.</p>
                 </div>
                 <div class="col-lg-6" data-aos="fade-up" data-aos-delay="250">
                     <div class="content ps-0 ps-lg-5">
                         <p class="fst-italic">
-                            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
-                            magna aliqua.
+                            VisionStack specializes in developing scalable, secure, and user-friendly software solutions that drive business innovation and efficiency.
                         </p>
                         <ul>
-                            <li><i class="bi bi-check-circle-fill"></i> <span>Ullamco laboris nisi ut aliquip ex ea commodo consequat.</span></li>
-                            <li><i class="bi bi-check-circle-fill"></i> <span>Duis aute irure dolor in reprehenderit in voluptate velit.</span></li>
-                            <li><i class="bi bi-check-circle-fill"></i> <span>Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate trideta storacalaperda mastiro dolore eu fugiat nulla pariatur.</span></li>
+                            <li><i class="bi bi-check-circle-fill"></i> <span>Custom software development focused on your unique business requirements</span></li>
+                            <li><i class="bi bi-check-circle-fill"></i> <span>Cloud-based SaaS platforms with flexible subscription models</span></li>
+                            <li><i class="bi bi-check-circle-fill"></i> <span>Enterprise-grade security and compliance with industry standards to protect your valuable business data while ensuring regulatory compliance</span></li>
                         </ul>
                         <p>
-                            Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
-                            velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident
+                            Our team of experienced developers, designers, and product specialists work collaboratively to deliver solutions that not only meet your current needs but can also scale with your business growth and adapt to future requirements.
                         </p>
 
                         <div class="position-relative mt-4">
@@ -151,7 +149,7 @@
                         <i class="bi bi-emoji-smile color-blue flex-shrink-0"></i>
                         <div>
                             <span data-purecounter-start="0" data-purecounter-end="232" data-purecounter-duration="1" class="purecounter"></span>
-                            <p>Happy Clients</p>
+                            <p>Satisfied Clients</p>
                         </div>
                     </div>
                 </div><!-- End Stats Item -->
@@ -161,7 +159,7 @@
                         <i class="bi bi-journal-richtext color-orange flex-shrink-0"></i>
                         <div>
                             <span data-purecounter-start="0" data-purecounter-end="521" data-purecounter-duration="1" class="purecounter"></span>
-                            <p>Projects</p>
+                            <p>Software Projects</p>
                         </div>
                     </div>
                 </div><!-- End Stats Item -->
@@ -171,7 +169,7 @@
                         <i class="bi bi-headset color-green flex-shrink-0"></i>
                         <div>
                             <span data-purecounter-start="0" data-purecounter-end="1463" data-purecounter-duration="1" class="purecounter"></span>
-                            <p>Hours Of Support</p>
+                            <p>Support Hours</p>
                         </div>
                     </div>
                 </div><!-- End Stats Item -->
@@ -180,8 +178,8 @@
                     <div class="stats-item d-flex align-items-center w-100 h-100">
                         <i class="bi bi-people color-pink flex-shrink-0"></i>
                         <div>
-                            <span data-purecounter-start="0" data-purecounter-end="15" data-purecounter-duration="1" class="purecounter"></span>
-                            <p>Hard Workers</p>
+                            <span data-purecounter-start="0" data-purecounter-end="35" data-purecounter-duration="1" class="purecounter"></span>
+                            <p>Tech Experts</p>
                         </div>
                     </div>
                 </div><!-- End Stats Item -->
@@ -198,7 +196,7 @@
         <!-- Section Title -->
         <div class="container section-title" data-aos="fade-up">
             <h2>Services</h2>
-            <p>Featured Srvices<br></p>
+            <p>Our Software Solutions</p>
         </div><!-- End Section Title -->
 
         <div class="container" data-aos="fade-up" data-aos-delay="100">
@@ -212,12 +210,12 @@
                         </div>
                         <div class="details position-relative">
                             <div class="icon">
-                                <i class="bi bi-activity"></i>
+                                <i class="bi bi-cloud"></i>
                             </div>
                             <a href="service-details.html" class="stretched-link">
-                                <h3>Nesciunt Mete</h3>
+                                <h3>Cloud SaaS Platforms</h3>
                             </a>
-                            <p>Provident nihil minus qui consequatur non omnis maiores. Eos accusantium minus dolores iure perferendis.</p>
+                            <p>Enterprise-grade SaaS solutions deployed on secure cloud infrastructure with scalable architecture to accommodate your growing business needs.</p>
                         </div>
                     </div>
                 </div><!-- End Service Item -->
@@ -229,12 +227,12 @@
                         </div>
                         <div class="details position-relative">
                             <div class="icon">
-                                <i class="bi bi-broadcast"></i>
+                                <i class="bi bi-code-square"></i>
                             </div>
                             <a href="service-details.html" class="stretched-link">
-                                <h3>Eosle Commodi</h3>
+                                <h3>Custom Software Development</h3>
                             </a>
-                            <p>Ut autem aut autem non a. Sint sint sit facilis nam iusto sint. Libero corrupti neque eum hic non ut nesciunt dolorem.</p>
+                            <p>Tailor-made software solutions designed to address your specific business challenges and streamline your operations with intuitive user interfaces.</p>
                         </div>
                     </div>
                 </div><!-- End Service Item -->
@@ -246,12 +244,12 @@
                         </div>
                         <div class="details position-relative">
                             <div class="icon">
-                                <i class="bi bi-easel"></i>
+                                <i class="bi bi-gear"></i>
                             </div>
                             <a href="service-details.html" class="stretched-link">
-                                <h3>Ledo Markt</h3>
+                                <h3>API Integration</h3>
                             </a>
-                            <p>Ut excepturi voluptatem nisi sed. Quidem fuga consequatur. Minus ea aut. Vel qui id voluptas adipisci eos earum corrupti.</p>
+                            <p>Seamless integration of third-party APIs and services to enhance your existing software solutions and create powerful connected ecosystems.</p>
                         </div>
                     </div>
                 </div><!-- End Service Item -->
@@ -304,29 +302,29 @@
 
         <div class="container">
 
-            <ul class="nav nav-tabs row  d-flex" data-aos="fade-up" data-aos-delay="100">
+            <ul class="nav nav-tabs row d-flex" data-aos="fade-up" data-aos-delay="100">
                 <li class="nav-item col-3">
                     <a class="nav-link active show" data-bs-toggle="tab" data-bs-target="#features-tab-1">
-                        <i class="bi bi-binoculars"></i>
-                        <h4 class="d-none d-lg-block">Modi sit est dela pireda nest</h4>
+                        <i class="bi bi-cloud-check"></i>
+                        <h4 class="d-none d-lg-block">Cloud Solutions</h4>
                     </a>
                 </li>
                 <li class="nav-item col-3">
                     <a class="nav-link" data-bs-toggle="tab" data-bs-target="#features-tab-2">
-                        <i class="bi bi-box-seam"></i>
-                        <h4 class="d-none d-lg-block">Unde praesenti mara setra le</h4>
+                        <i class="bi bi-shield-check"></i>
+                        <h4 class="d-none d-lg-block">Security & Compliance</h4>
                     </a>
                 </li>
                 <li class="nav-item col-3">
                     <a class="nav-link" data-bs-toggle="tab" data-bs-target="#features-tab-3">
-                        <i class="bi bi-brightness-high"></i>
-                        <h4 class="d-none d-lg-block">Pariatur explica nitro dela</h4>
+                        <i class="bi bi-speedometer2"></i>
+                        <h4 class="d-none d-lg-block">Scalable Architecture</h4>
                     </a>
                 </li>
                 <li class="nav-item col-3">
                     <a class="nav-link" data-bs-toggle="tab" data-bs-target="#features-tab-4">
-                        <i class="bi bi-command"></i>
-                        <h4 class="d-none d-lg-block">Nostrum qui dile node</h4>
+                        <i class="bi bi-phone"></i>
+                        <h4 class="d-none d-lg-block">Mobile Solutions</h4>
                     </a>
                 </li>
             </ul><!-- End Tab Nav -->
@@ -336,22 +334,19 @@
                 <div class="tab-pane fade active show" id="features-tab-1">
                     <div class="row">
                         <div class="col-lg-6 order-2 order-lg-1 mt-3 mt-lg-0">
-                            <h3>Voluptatem dignissimos provident quasi corporis voluptates sit assumenda.</h3>
+                            <h3>Powerful cloud-based solutions for modern businesses</h3>
                             <p class="fst-italic">
-                                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
-                                magna aliqua.
+                                Our cloud solutions are designed to provide maximum reliability, security, and scalability for your business applications.
                             </p>
                             <ul>
                                 <li><i class="bi bi-check2-all"></i>
-                                    <spab>Ullamco laboris nisi ut aliquip ex ea commodo consequat.</spab>
+                                    <span>Flexible deployment options on AWS, Azure, or Google Cloud Platform</span>
                                 </li>
-                                <li><i class="bi bi-check2-all"></i> <span>Duis aute irure dolor in reprehenderit in voluptate velit</span>.</li>
-                                <li><i class="bi bi-check2-all"></i> <span>Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate trideta storacalaperda mastiro dolore eu fugiat nulla pariatur.</span></li>
+                                <li><i class="bi bi-check2-all"></i> <span>Microservices architecture for scalability and resilience</span></li>
+                                <li><i class="bi bi-check2-all"></i> <span>Containerization with Docker and Kubernetes for consistent deployment and management across environments</span></li>
                             </ul>
                             <p>
-                                Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
-                                velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-                                culpa qui officia deserunt mollit anim id est laborum
+                                We leverage cloud-native technologies to build applications that scale automatically with your business needs, reducing operational overhead and providing significant cost advantages over traditional on-premise solutions.
                             </p>
                         </div>
                         <div class="col-lg-6 order-1 order-lg-2 text-center">
@@ -363,21 +358,18 @@
                 <div class="tab-pane fade" id="features-tab-2">
                     <div class="row">
                         <div class="col-lg-6 order-2 order-lg-1 mt-3 mt-lg-0">
-                            <h3>Neque exercitationem debitis soluta quos debitis quo mollitia officia est</h3>
+                            <h3>Enterprise-grade security and compliance for sensitive data</h3>
                             <p>
-                                Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
-                                velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-                                culpa qui officia deserunt mollit anim id est laborum
+                                We implement security best practices at every layer of your application to protect your valuable business data and maintain compliance with industry regulations.
                             </p>
                             <p class="fst-italic">
-                                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
-                                magna aliqua.
+                                Security is never an afterthought - it's baked into our development process from day one.
                             </p>
                             <ul>
-                                <li><i class="bi bi-check2-all"></i> <span>Ullamco laboris nisi ut aliquip ex ea commodo consequat.</span></li>
-                                <li><i class="bi bi-check2-all"></i> <span>Duis aute irure dolor in reprehenderit in voluptate velit.</span></li>
-                                <li><i class="bi bi-check2-all"></i> <span>Provident mollitia neque rerum asperiores dolores quos qui a. Ipsum neque dolor voluptate nisi sed.</span></li>
-                                <li><i class="bi bi-check2-all"></i> <span>Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate trideta storacalaperda mastiro dolore eu fugiat nulla pariatur.</span></li>
+                                <li><i class="bi bi-check2-all"></i> <span>Data encryption at rest and in transit</span></li>
+                                <li><i class="bi bi-check2-all"></i> <span>Role-based access control and multi-factor authentication</span></li>
+                                <li><i class="bi bi-check2-all"></i> <span>Compliance with GDPR, HIPAA, SOC2, and other industry standards</span></li>
+                                <li><i class="bi bi-check2-all"></i> <span>Regular security audits and vulnerability assessments to maintain the highest security standards</span></li>
                             </ul>
                         </div>
                         <div class="col-lg-6 order-1 order-lg-2 text-center">
@@ -389,20 +381,17 @@
                 <div class="tab-pane fade" id="features-tab-3">
                     <div class="row">
                         <div class="col-lg-6 order-2 order-lg-1 mt-3 mt-lg-0">
-                            <h3>Voluptatibus commodi ut accusamus ea repudiandae ut autem dolor ut assumenda</h3>
+                            <h3>Build for growth with scalable, future-proof architecture</h3>
                             <p>
-                                Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
-                                velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-                                culpa qui officia deserunt mollit anim id est laborum
+                                Our software solutions are built on scalable architectures that grow with your business, handling increased loads without sacrificing performance.
                             </p>
                             <ul>
-                                <li><i class="bi bi-check2-all"></i> <span>Ullamco laboris nisi ut aliquip ex ea commodo consequat.</span></li>
-                                <li><i class="bi bi-check2-all"></i> <span>Duis aute irure dolor in reprehenderit in voluptate velit.</span></li>
-                                <li><i class="bi bi-check2-all"></i> <span>Provident mollitia neque rerum asperiores dolores quos qui a. Ipsum neque dolor voluptate nisi sed.</span></li>
+                                <li><i class="bi bi-check2-all"></i> <span>Microservices architecture for independent scaling of system components</span></li>
+                                <li><i class="bi bi-check2-all"></i> <span>Database optimization and sharding for high-volume data processing</span></li>
+                                <li><i class="bi bi-check2-all"></i> <span>Auto-scaling infrastructure that responds to demand in real-time</span></li>
                             </ul>
                             <p class="fst-italic">
-                                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
-                                magna aliqua.
+                                We design systems that can handle your peak loads today and scale effortlessly as your user base grows tomorrow.
                             </p>
                         </div>
                         <div class="col-lg-6 order-1 order-lg-2 text-center">
@@ -414,20 +403,17 @@
                 <div class="tab-pane fade" id="features-tab-4">
                     <div class="row">
                         <div class="col-lg-6 order-2 order-lg-1 mt-3 mt-lg-0">
-                            <h3>Omnis fugiat ea explicabo sunt dolorum asperiores sequi inventore rerum</h3>
+                            <h3>Extend your reach with cross-platform mobile solutions</h3>
                             <p>
-                                Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
-                                velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-                                culpa qui officia deserunt mollit anim id est laborum
+                                Deliver exceptional user experiences on mobile devices with our native and cross-platform mobile development expertise.
                             </p>
                             <p class="fst-italic">
-                                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
-                                magna aliqua.
+                                Our mobile solutions work seamlessly across devices, providing consistent experiences on iOS and Android platforms.
                             </p>
                             <ul>
-                                <li><i class="bi bi-check2-all"></i> <span>Ullamco laboris nisi ut aliquip ex ea commodo consequat.</span></li>
-                                <li><i class="bi bi-check2-all"></i> <span>Duis aute irure dolor in reprehenderit in voluptate velit.</span></li>
-                                <li><i class="bi bi-check2-all"></i> <span>Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate trideta storacalaperda mastiro dolore eu fugiat nulla pariatur.</span></li>
+                                <li><i class="bi bi-check2-all"></i> <span>Native iOS and Android development for maximum performance</span></li>
+                                <li><i class="bi bi-check2-all"></i> <span>Cross-platform frameworks like React Native and Flutter for efficient development</span></li>
+                                <li><i class="bi bi-check2-all"></i> <span>Progressive Web Apps (PWAs) that combine the best of web and mobile experiences</span></li>
                             </ul>
                         </div>
                         <div class="col-lg-6 order-1 order-lg-2 text-center">
@@ -447,8 +433,8 @@
 
         <!-- Section Title -->
         <div class="container section-title" data-aos="fade-up">
-            <h2>Services</h2>
-            <p>CHECK OUR SERVICES</p>
+            <h2>Solutions</h2>
+            <p>OUR COMPREHENSIVE OFFERINGS</p>
         </div><!-- End Section Title -->
 
         <div class="container">
@@ -457,60 +443,60 @@
 
                 <div class="col-md-6" data-aos="fade-up" data-aos-delay="100">
                     <div class="service-item d-flex position-relative h-100">
-                        <i class="bi bi-briefcase icon flex-shrink-0"></i>
+                        <i class="bi bi-code-slash icon flex-shrink-0"></i>
                         <div>
-                            <h4 class="title"><a href="#" class="stretched-link">Lorem Ipsum</a></h4>
-                            <p class="description">Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident</p>
+                            <h4 class="title"><a href="#" class="stretched-link">Custom Software Development</a></h4>
+                            <p class="description">Tailor-made software solutions designed to address your specific business challenges and streamline your operations with intuitive user experiences.</p>
                         </div>
                     </div>
                 </div><!-- End Service Item -->
 
                 <div class="col-md-6" data-aos="fade-up" data-aos-delay="200">
                     <div class="service-item d-flex position-relative h-100">
-                        <i class="bi bi-card-checklist icon flex-shrink-0"></i>
+                        <i class="bi bi-cloud-arrow-up icon flex-shrink-0"></i>
                         <div>
-                            <h4 class="title"><a href="#" class="stretched-link">Dolor Sitema</a></h4>
-                            <p class="description">Minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat tarad limino ata</p>
+                            <h4 class="title"><a href="#" class="stretched-link">SaaS Platform Development</a></h4>
+                            <p class="description">End-to-end development of scalable, secure SaaS platforms from concept to deployment, with ongoing support and maintenance.</p>
                         </div>
                     </div>
                 </div><!-- End Service Item -->
 
                 <div class="col-md-6" data-aos="fade-up" data-aos-delay="300">
                     <div class="service-item d-flex position-relative h-100">
-                        <i class="bi bi-bar-chart icon flex-shrink-0"></i>
+                        <i class="bi bi-diagram-3 icon flex-shrink-0"></i>
                         <div>
-                            <h4 class="title"><a href="#" class="stretched-link">Sed ut perspiciatis</a></h4>
-                            <p class="description">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur</p>
+                            <h4 class="title"><a href="#" class="stretched-link">API Development & Integration</a></h4>
+                            <p class="description">Creation of robust APIs and seamless integration with third-party services to create powerful connected software ecosystems.</p>
                         </div>
                     </div>
                 </div><!-- End Service Item -->
 
                 <div class="col-md-6" data-aos="fade-up" data-aos-delay="400">
                     <div class="service-item d-flex position-relative h-100">
-                        <i class="bi bi-binoculars icon flex-shrink-0"></i>
+                        <i class="bi bi-phone icon flex-shrink-0"></i>
                         <div>
-                            <h4 class="title"><a href="#" class="stretched-link">Magni Dolores</a></h4>
-                            <p class="description">Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</p>
+                            <h4 class="title"><a href="#" class="stretched-link">Mobile App Development</a></h4>
+                            <p class="description">Native and cross-platform mobile applications that provide engaging user experiences across iOS and Android devices.</p>
                         </div>
                     </div>
                 </div><!-- End Service Item -->
 
                 <div class="col-md-6" data-aos="fade-up" data-aos-delay="500">
                     <div class="service-item d-flex position-relative h-100">
-                        <i class="bi bi-brightness-high icon flex-shrink-0"></i>
+                        <i class="bi bi-database-check icon flex-shrink-0"></i>
                         <div>
-                            <h4 class="title"><a href="#" class="stretched-link">Nemo Enim</a></h4>
-                            <p class="description">At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque</p>
+                            <h4 class="title"><a href="#" class="stretched-link">Database & System Architecture</a></h4>
+                            <p class="description">Design and implementation of scalable, high-performance database systems and application architectures that grow with your business.</p>
                         </div>
                     </div>
                 </div><!-- End Service Item -->
 
                 <div class="col-md-6" data-aos="fade-up" data-aos-delay="600">
                     <div class="service-item d-flex position-relative h-100">
-                        <i class="bi bi-calendar4-week icon flex-shrink-0"></i>
+                        <i class="bi bi-headset icon flex-shrink-0"></i>
                         <div>
-                            <h4 class="title"><a href="#" class="stretched-link">Eiusmod Tempor</a></h4>
-                            <p class="description">Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi</p>
+                            <h4 class="title"><a href="#" class="stretched-link">Maintenance & Support</a></h4>
+                            <p class="description">Comprehensive support, regular updates, and proactive maintenance to keep your software running smoothly and securely.</p>
                         </div>
                     </div>
                 </div><!-- End Service Item -->
@@ -549,14 +535,14 @@
                     <div class="swiper-slide">
                         <div class="testimonial-item">
                             <img src="assets/img/testimonials/testimonials-1.jpg" class="testimonial-img" alt="">
-                            <h3>Saul Goodman</h3>
-                            <h4>Ceo &amp; Founder</h4>
+                            <h3>Robert Johnson</h3>
+                            <h4>CEO, TechInnovate</h4>
                             <div class="stars">
                                 <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i>
                             </div>
                             <p>
                                 <i class="bi bi-quote quote-icon-left"></i>
-                                <span>Proin iaculis purus consequat sem cure digni ssim donec porttitora entum suscipit rhoncus. Accusantium quam, ultricies eget id, aliquam eget nibh et. Maecen aliquam, risus at semper.</span>
+                                <span>VisionStack delivered an exceptional SaaS platform that transformed our business operations. Their attention to detail and commitment to quality was evident throughout the project. The solution they built has significantly improved our efficiency and customer satisfaction.</span>
                                 <i class="bi bi-quote quote-icon-right"></i>
                             </p>
                         </div>
@@ -565,14 +551,14 @@
                     <div class="swiper-slide">
                         <div class="testimonial-item">
                             <img src="assets/img/testimonials/testimonials-2.jpg" class="testimonial-img" alt="">
-                            <h3>Sara Wilsson</h3>
-                            <h4>Designer</h4>
+                            <h3>Sarah Wilson</h3>
+                            <h4>Product Director, CloudSystems</h4>
                             <div class="stars">
                                 <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i>
                             </div>
                             <p>
                                 <i class="bi bi-quote quote-icon-left"></i>
-                                <span>Export tempor illum tamen malis malis eram quae irure esse labore quem cillum quid cillum eram malis quorum velit fore eram velit sunt aliqua noster fugiat irure amet legam anim culpa.</span>
+                                <span>Working with VisionStack was a game-changer for our company. Their expert developers created a custom CRM system that perfectly aligned with our unique business processes. The solution is intuitive, scalable, and has dramatically improved our customer relationships.</span>
                                 <i class="bi bi-quote quote-icon-right"></i>
                             </p>
                         </div>
@@ -581,14 +567,14 @@
                     <div class="swiper-slide">
                         <div class="testimonial-item">
                             <img src="assets/img/testimonials/testimonials-3.jpg" class="testimonial-img" alt="">
-                            <h3>Jena Karlis</h3>
-                            <h4>Store Owner</h4>
+                            <h3>James Peterson</h3>
+                            <h4>Operations Manager, RetailNow</h4>
                             <div class="stars">
                                 <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i>
                             </div>
                             <p>
                                 <i class="bi bi-quote quote-icon-left"></i>
-                                <span>Enim nisi quem export duis labore cillum quae magna enim sint quorum nulla quem veniam duis minim tempor labore quem eram duis noster aute amet eram fore quis sint minim.</span>
+                                <span>The inventory management system developed by VisionStack has revolutionized our retail operations. Their team took time to understand our needs and delivered a solution that exceeded our expectations. The system's real-time analytics have been crucial for our business growth.</span>
                                 <i class="bi bi-quote quote-icon-right"></i>
                             </p>
                         </div>
@@ -597,14 +583,14 @@
                     <div class="swiper-slide">
                         <div class="testimonial-item">
                             <img src="assets/img/testimonials/testimonials-4.jpg" class="testimonial-img" alt="">
-                            <h3>Matt Brandon</h3>
-                            <h4>Freelancer</h4>
+                            <h3>Michael Thompson</h3>
+                            <h4>CTO, FinTech Solutions</h4>
                             <div class="stars">
                                 <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i>
                             </div>
                             <p>
                                 <i class="bi bi-quote quote-icon-left"></i>
-                                <span>Fugiat enim eram quae cillum dolore dolor amet nulla culpa multos export minim fugiat minim velit minim dolor enim duis veniam ipsum anim magna sunt elit fore quem dolore labore illum veniam.</span>
+                                <span>VisionStack's expertise in secure financial applications is impressive. They developed a mobile banking solution for us with enterprise-grade security features. Their development process was transparent, and they delivered on time and within budget. Truly a reliable technology partner.</span>
                                 <i class="bi bi-quote quote-icon-right"></i>
                             </p>
                         </div>
@@ -613,14 +599,14 @@
                     <div class="swiper-slide">
                         <div class="testimonial-item">
                             <img src="assets/img/testimonials/testimonials-5.jpg" class="testimonial-img" alt="">
-                            <h3>John Larson</h3>
-                            <h4>Entrepreneur</h4>
+                            <h3>Jennifer Adams</h3>
+                            <h4>Digital Transformation Lead, HealthCare Plus</h4>
                             <div class="stars">
                                 <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i>
                             </div>
                             <p>
                                 <i class="bi bi-quote quote-icon-left"></i>
-                                <span>Quis quorum aliqua sint quem legam fore sunt eram irure aliqua veniam tempor noster veniam enim culpa labore duis sunt culpa nulla illum cillum fugiat legam esse veniam culpa fore nisi cillum quid.</span>
+                                <span>Our healthcare management system by VisionStack has transformed patient care at our facilities. The solution seamlessly integrated with our existing systems while meeting all regulatory requirements. Their ongoing support has been exceptional, making them a true partner in our digital transformation journey.</span>
                                 <i class="bi bi-quote quote-icon-right"></i>
                             </p>
                         </div>
@@ -640,7 +626,7 @@
         <!-- Section Title -->
         <div class="container section-title" data-aos="fade-up">
             <h2>Portfolio</h2>
-            <p>CHECK OUR PORTFOLIO</p>
+            <p>OUR RECENT PROJECTS</p>
         </div><!-- End Section Title -->
 
         <div class="container">
@@ -649,10 +635,10 @@
 
                 <ul class="portfolio-filters isotope-filters" data-aos="fade-up" data-aos-delay="100">
                     <li data-filter="*" class="filter-active">All</li>
-                    <li data-filter=".filter-app">App</li>
-                    <li data-filter=".filter-product">Product</li>
-                    <li data-filter=".filter-branding">Branding</li>
-                    <li data-filter=".filter-books">Books</li>
+                    <li data-filter=".filter-app">Web Apps</li>
+                    <li data-filter=".filter-product">SaaS Products</li>
+                    <li data-filter=".filter-branding">Mobile Apps</li>
+                    <li data-filter=".filter-books">Enterprise Solutions</li>
                 </ul><!-- End Portfolio Filters -->
 
                 <div class="row gy-4 isotope-container" data-aos="fade-up" data-aos-delay="200">
@@ -661,9 +647,9 @@
                         <div class="portfolio-content h-100">
                             <img src="assets/img/portfolio/app-1.jpg" class="img-fluid" alt="">
                             <div class="portfolio-info">
-                                <h4>App 1</h4>
-                                <p>Lorem ipsum, dolor sit amet consectetur</p>
-                                <a href="assets/img/portfolio/app-1.jpg" title="App 1" data-gallery="portfolio-gallery-app" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                                <h4>CRM Web App</h4>
+                                <p>Custom customer relationship management solution</p>
+                                <a href="assets/img/portfolio/app-1.jpg" title="CRM Web App" data-gallery="portfolio-gallery-app" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
                                 <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
                             </div>
                         </div>
@@ -673,9 +659,9 @@
                         <div class="portfolio-content h-100">
                             <img src="assets/img/portfolio/product-1.jpg" class="img-fluid" alt="">
                             <div class="portfolio-info">
-                                <h4>Product 1</h4>
-                                <p>Lorem ipsum, dolor sit amet consectetur</p>
-                                <a href="assets/img/portfolio/product-1.jpg" title="Product 1" data-gallery="portfolio-gallery-product" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                                <h4>SaaS Product 1</h4>
+                                <p>Innovative SaaS solution for business automation</p>
+                                <a href="assets/img/portfolio/product-1.jpg" title="SaaS Product 1" data-gallery="portfolio-gallery-product" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
                                 <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
                             </div>
                         </div>
@@ -685,9 +671,9 @@
                         <div class="portfolio-content h-100">
                             <img src="assets/img/portfolio/branding-1.jpg" class="img-fluid" alt="">
                             <div class="portfolio-info">
-                                <h4>Branding 1</h4>
-                                <p>Lorem ipsum, dolor sit amet consectetur</p>
-                                <a href="assets/img/portfolio/branding-1.jpg" title="Branding 1" data-gallery="portfolio-gallery-branding" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                                <h4>Mobile App 1</h4>
+                                <p>Cross-platform mobile application for e-commerce</p>
+                                <a href="assets/img/portfolio/branding-1.jpg" title="Mobile App 1" data-gallery="portfolio-gallery-branding" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
                                 <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
                             </div>
                         </div>
@@ -697,9 +683,9 @@
                         <div class="portfolio-content h-100">
                             <img src="assets/img/portfolio/books-1.jpg" class="img-fluid" alt="">
                             <div class="portfolio-info">
-                                <h4>Books 1</h4>
-                                <p>Lorem ipsum, dolor sit amet consectetur</p>
-                                <a href="assets/img/portfolio/books-1.jpg" title="Branding 1" data-gallery="portfolio-gallery-book" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                                <h4>Enterprise Solution 1</h4>
+                                <p>Comprehensive enterprise resource planning system</p>
+                                <a href="assets/img/portfolio/books-1.jpg" title="Enterprise Solution 1" data-gallery="portfolio-gallery-book" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
                                 <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
                             </div>
                         </div>
@@ -709,9 +695,9 @@
                         <div class="portfolio-content h-100">
                             <img src="assets/img/portfolio/app-2.jpg" class="img-fluid" alt="">
                             <div class="portfolio-info">
-                                <h4>App 2</h4>
-                                <p>Lorem ipsum, dolor sit amet consectetur</p>
-                                <a href="assets/img/portfolio/app-2.jpg" title="App 2" data-gallery="portfolio-gallery-app" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                                <h4>Inventory Management App</h4>
+                                <p>Real-time inventory tracking and management system</p>
+                                <a href="assets/img/portfolio/app-2.jpg" title="Inventory Management App" data-gallery="portfolio-gallery-app" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
                                 <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
                             </div>
                         </div>
@@ -721,9 +707,9 @@
                         <div class="portfolio-content h-100">
                             <img src="assets/img/portfolio/product-2.jpg" class="img-fluid" alt="">
                             <div class="portfolio-info">
-                                <h4>Product 2</h4>
-                                <p>Lorem ipsum, dolor sit amet consectetur</p>
-                                <a href="assets/img/portfolio/product-2.jpg" title="Product 2" data-gallery="portfolio-gallery-product" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                                <h4>Analytics Platform</h4>
+                                <p>Business intelligence and analytics dashboard solution</p>
+                                <a href="assets/img/portfolio/product-2.jpg" title="Analytics Platform" data-gallery="portfolio-gallery-product" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
                                 <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
                             </div>
                         </div>
@@ -733,9 +719,9 @@
                         <div class="portfolio-content h-100">
                             <img src="assets/img/portfolio/branding-2.jpg" class="img-fluid" alt="">
                             <div class="portfolio-info">
-                                <h4>Branding 2</h4>
-                                <p>Lorem ipsum, dolor sit amet consectetur</p>
-                                <a href="assets/img/portfolio/branding-2.jpg" title="Branding 2" data-gallery="portfolio-gallery-branding" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                                <h4>Mobile Banking App</h4>
+                                <p>Secure financial transaction mobile application</p>
+                                <a href="assets/img/portfolio/branding-2.jpg" title="Mobile Banking App" data-gallery="portfolio-gallery-branding" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
                                 <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
                             </div>
                         </div>
@@ -745,9 +731,9 @@
                         <div class="portfolio-content h-100">
                             <img src="assets/img/portfolio/books-2.jpg" class="img-fluid" alt="">
                             <div class="portfolio-info">
-                                <h4>Books 2</h4>
-                                <p>Lorem ipsum, dolor sit amet consectetur</p>
-                                <a href="assets/img/portfolio/books-2.jpg" title="Branding 2" data-gallery="portfolio-gallery-book" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                                <h4>Supply Chain System</h4>
+                                <p>End-to-end supply chain management solution</p>
+                                <a href="assets/img/portfolio/books-2.jpg" title="Supply Chain System" data-gallery="portfolio-gallery-book" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
                                 <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
                             </div>
                         </div>
@@ -757,9 +743,9 @@
                         <div class="portfolio-content h-100">
                             <img src="assets/img/portfolio/app-3.jpg" class="img-fluid" alt="">
                             <div class="portfolio-info">
-                                <h4>App 3</h4>
-                                <p>Lorem ipsum, dolor sit amet consectetur</p>
-                                <a href="assets/img/portfolio/app-3.jpg" title="App 3" data-gallery="portfolio-gallery-app" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                                <h4>Task Management Platform</h4>
+                                <p>Collaborative project and task management solution</p>
+                                <a href="assets/img/portfolio/app-3.jpg" title="Task Management Platform" data-gallery="portfolio-gallery-app" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
                                 <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
                             </div>
                         </div>
@@ -769,9 +755,9 @@
                         <div class="portfolio-content h-100">
                             <img src="assets/img/portfolio/product-3.jpg" class="img-fluid" alt="">
                             <div class="portfolio-info">
-                                <h4>Product 3</h4>
-                                <p>Lorem ipsum, dolor sit amet consectetur</p>
-                                <a href="assets/img/portfolio/product-3.jpg" title="Product 3" data-gallery="portfolio-gallery-product" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                                <h4>HR Management System</h4>
+                                <p>Comprehensive human resources management platform</p>
+                                <a href="assets/img/portfolio/product-3.jpg" title="HR Management System" data-gallery="portfolio-gallery-product" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
                                 <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
                             </div>
                         </div>
@@ -781,9 +767,9 @@
                         <div class="portfolio-content h-100">
                             <img src="assets/img/portfolio/branding-3.jpg" class="img-fluid" alt="">
                             <div class="portfolio-info">
-                                <h4>Branding 3</h4>
-                                <p>Lorem ipsum, dolor sit amet consectetur</p>
-                                <a href="assets/img/portfolio/branding-3.jpg" title="Branding 2" data-gallery="portfolio-gallery-branding" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                                <h4>Customer Support App</h4>
+                                <p>Mobile ticket management and support system</p>
+                                <a href="assets/img/portfolio/branding-3.jpg" title="Customer Support App" data-gallery="portfolio-gallery-branding" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
                                 <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
                             </div>
                         </div>
@@ -793,9 +779,9 @@
                         <div class="portfolio-content h-100">
                             <img src="assets/img/portfolio/books-3.jpg" class="img-fluid" alt="">
                             <div class="portfolio-info">
-                                <h4>Books 3</h4>
-                                <p>Lorem ipsum, dolor sit amet consectetur</p>
-                                <a href="assets/img/portfolio/books-3.jpg" title="Branding 3" data-gallery="portfolio-gallery-book" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                                <h4>Healthcare Management</h4>
+                                <p>Electronic health records and patient management system</p>
+                                <a href="assets/img/portfolio/books-3.jpg" title="Healthcare Management" data-gallery="portfolio-gallery-book" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
                                 <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
                             </div>
                         </div>
@@ -815,7 +801,7 @@
         <!-- Section Title -->
         <div class="container section-title" data-aos="fade-up">
             <h2>Team</h2>
-            <p>CHECK OUR TEAM</p>
+            <p>OUR TECH EXPERTS</p>
         </div><!-- End Section Title -->
 
         <div class="container">
@@ -826,8 +812,8 @@
                     <div class="member">
                         <div class="pic"><img src="assets/img/team/team-1.jpg" class="img-fluid" alt=""></div>
                         <div class="member-info">
-                            <h4>Walter White</h4>
-                            <span>Chief Executive Officer</span>
+                            <h4>Hariharan</h4>
+                            <span>Founder & CEO</span>
                             <div class="social">
                                 <a href=""><i class="bi bi-twitter-x"></i></a>
                                 <a href=""><i class="bi bi-facebook"></i></a>
@@ -842,8 +828,8 @@
                     <div class="member">
                         <div class="pic"><img src="assets/img/team/team-2.jpg" class="img-fluid" alt=""></div>
                         <div class="member-info">
-                            <h4>Sarah Jhonson</h4>
-                            <span>Product Manager</span>
+                            <h4>Sarah Johnson</h4>
+                            <span>Lead Software Architect</span>
                             <div class="social">
                                 <a href=""><i class="bi bi-twitter-x"></i></a>
                                 <a href=""><i class="bi bi-facebook"></i></a>
@@ -859,7 +845,7 @@
                         <div class="pic"><img src="assets/img/team/team-3.jpg" class="img-fluid" alt=""></div>
                         <div class="member-info">
                             <h4>William Anderson</h4>
-                            <span>CTO</span>
+                            <span>DevOps Lead</span>
                             <div class="social">
                                 <a href=""><i class="bi bi-twitter-x"></i></a>
                                 <a href=""><i class="bi bi-facebook"></i></a>
@@ -882,7 +868,7 @@
         <!-- Section Title -->
         <div class="container section-title" data-aos="fade-up">
             <h2>Contact</h2>
-            <p>Necessitatibus eius consequatur</p>
+            <p>READY TO TRANSFORM YOUR BUSINESS?</p>
         </div><!-- End Section Title -->
 
         <div class="container" data-aos="fade-up" data-aos-delay="100">
@@ -895,7 +881,10 @@
                             <div class="info-item d-flex flex-column justify-content-center align-items-center" data-aos="fade-up" data-aos-delay="200">
                                 <i class="bi bi-geo-alt"></i>
                                 <h3>Address</h3>
-                                <p>A108 Adam Street, New York, NY 535022</p>
+                                <p>NO 7/70, INDIVIDUAL,<br>
+                                   MARIYAMMAN KOIL STREET,<br>
+                                   CANTONMENT PALLAVARAM,<br>
+                                   CHENNAI, TAMIL NADU - 600043</p>
                             </div>
                         </div><!-- End Info Item -->
 
@@ -903,7 +892,7 @@
                             <div class="info-item d-flex flex-column justify-content-center align-items-center" data-aos="fade-up" data-aos-delay="300">
                                 <i class="bi bi-telephone"></i>
                                 <h3>Call Us</h3>
-                                <p>+1 5589 55488 55</p>
+                                <p>+91 80563 29572</p>
                             </div>
                         </div><!-- End Info Item -->
 
@@ -911,7 +900,7 @@
                             <div class="info-item d-flex flex-column justify-content-center align-items-center" data-aos="fade-up" data-aos-delay="400">
                                 <i class="bi bi-envelope"></i>
                                 <h3>Email Us</h3>
-                                <p>info@example.com</p>
+                                <p>info@visionstack.in</p>
                             </div>
                         </div><!-- End Info Item -->
 
@@ -967,10 +956,12 @@
                     <span class="sitename">VisionStack</span>
                 </a>
                 <div class="footer-contact pt-3">
-                    <p>A108 Adam Street</p>
-                    <p>New York, NY 535022</p>
-                    <p class="mt-3"><strong>Phone:</strong> <span>+1 5589 55488 55</span></p>
-                    <p><strong>Email:</strong> <span>info@example.com</span></p>
+                    <p>NO 7/70, INDIVIDUAL,<br>
+                       MARIYAMMAN KOIL STREET,<br>
+                       CANTONMENT PALLAVARAM,<br>
+                       CHENNAI, TAMIL NADU - 600043</p>
+                    <p class="mt-3"><strong>Phone:</strong> <span>+91 80563 29572</span></p>
+                    <p><strong>Email:</strong> <span>info@visionstack.in</span></p>
                 </div>
                 <div class="social-links d-flex mt-4">
                     <a href=""><i class="bi bi-twitter-x"></i></a>
@@ -994,17 +985,17 @@
             <div class="col-lg-2 col-md-3 footer-links">
                 <h4>Our Services</h4>
                 <ul>
-                    <li><i class="bi bi-chevron-right"></i> <a href="#">Web Design</a></li>
-                    <li><i class="bi bi-chevron-right"></i> <a href="#">Web Development</a></li>
-                    <li><i class="bi bi-chevron-right"></i> <a href="#">Product Management</a></li>
-                    <li><i class="bi bi-chevron-right"></i> <a href="#">Marketing</a></li>
-                    <li><i class="bi bi-chevron-right"></i> <a href="#">Graphic Design</a></li>
+                    <li><i class="bi bi-chevron-right"></i> <a href="#">Custom Software</a></li>
+                    <li><i class="bi bi-chevron-right"></i> <a href="#">SaaS Development</a></li>
+                    <li><i class="bi bi-chevron-right"></i> <a href="#">API Integration</a></li>
+                    <li><i class="bi bi-chevron-right"></i> <a href="#">Mobile Development</a></li>
+                    <li><i class="bi bi-chevron-right"></i> <a href="#">Cloud Solutions</a></li>
                 </ul>
             </div>
 
             <div class="col-lg-4 col-md-12 footer-newsletter">
                 <h4>Our Newsletter</h4>
-                <p>Subscribe to our newsletter and receive the latest news about our products and services!</p>
+                <p>Subscribe to our newsletter for the latest updates on software development trends and our service offerings.</p>
                 <form action="forms/newsletter.php" method="post" class="php-email-form">
                     <div class="newsletter-form"><input type="email" name="email"><input type="submit" value="Subscribe"></div>
                     <div class="loading">Loading</div>
@@ -1023,7 +1014,7 @@
             <!-- You can delete the links only if you've purchased the pro version. -->
             <!-- Licensing information: https://bootstrapmade.com/license/ -->
             <!-- Purchase the pro version with working PHP/AJAX contact form: [buy-url] -->
-            Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a> Distributed by <a href=“https://themewagon.com>ThemeWagon
+            Designed by <a href="https://visionstack.in/">VisionStack</a> Distributed by <a href="https://visionstack.in">VisionStack</a>
         </div>
     </div>
 
