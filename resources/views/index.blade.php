@@ -881,10 +881,10 @@
                             <div class="info-item d-flex flex-column justify-content-center align-items-center" data-aos="fade-up" data-aos-delay="200">
                                 <i class="bi bi-geo-alt"></i>
                                 <h3>Address</h3>
-                                <p>NO 7/70, INDIVIDUAL,<br>
-                                   MARIYAMMAN KOIL STREET,<br>
-                                   CANTONMENT PALLAVARAM,<br>
-                                   CHENNAI, TAMIL NADU - 600043</p>
+                                <p class="text-center">No. 7/70, Individual,<br>
+                                    Mariyamman Koil Street,<br>
+                                    Cantonment Pallavaram,<br>
+                                    Chennai, Tamil Nadu - 600043</p>
                             </div>
                         </div><!-- End Info Item -->
 
@@ -956,10 +956,10 @@
                     <span class="sitename transparent-text">Visionstack</span>
                 </a>
                 <div class="footer-contact pt-3">
-                    <p>NO 7/70, INDIVIDUAL,<br>
-                       MARIYAMMAN KOIL STREET,<br>
-                       CANTONMENT PALLAVARAM,<br>
-                       CHENNAI, TAMIL NADU - 600043</p>
+                    <p>No. 7/70, Individual,<br>
+                        Mariyamman Koil Street,<br>
+                        Cantonment Pallavaram,<br>
+                        Chennai, Tamil Nadu - 600043</p>
                     <p class="mt-3"><strong>Phone:</strong> <span>+91 80563 29572</span></p>
                     <p><strong>Email:</strong> <span>info@visionstack.in</span></p>
                 </div>
