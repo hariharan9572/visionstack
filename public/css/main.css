@@ -234,15 +234,22 @@ h6 {
   padding: 20px 0;
   transition: all 0.5s;
   z-index: 997;
+  height: 100px; /* Set a fixed height for the header */
+  display: flex;
+  align-items: center;
 }
 
 .header .logo {
   line-height: 1;
+  display: flex;
+  align-items: center;
 }
 
 .header .logo img {
-  max-height: 36px;
+  max-height: 150px; /* Reduce max-height to fit within header */
   margin-right: 8px;
+  width: auto;
+  object-fit: contain;
 }
 
 .header .logo h1 {
@@ -272,8 +279,16 @@ h6 {
 }
 
 @media (max-width: 1200px) {
+  .header {
+    height: 100px; /* Increased from 80px to accommodate larger logo */
+  }
+
   .header .logo {
     order: 1;
+  }
+
+  .header .logo img {
+    max-height: 90px; /* Increased from 60px for larger mobile display */
   }
 
   .header .cta-btn {
@@ -284,6 +299,17 @@ h6 {
 
   .header .navmenu {
     order: 3;
+  }
+}
+
+/* Additional breakpoint for very small screens */
+@media (max-width: 576px) {
+  .header {
+    height: 80px;
+  }
+
+  .header .logo img {
+    max-height: 70px; /* Slightly smaller on very small screens but still prominent */
   }
 }
 
@@ -1773,7 +1799,7 @@ section,
 
 .portfolio-details .portfolio-description p {
   padding: 0;
-  color: color-mix(in srgb, var(--default-color), transparent 30%);
+  color: color-mix(in srgb, var (--default-color), transparent 30%);
 }
 
 /*--------------------------------------------------------------
