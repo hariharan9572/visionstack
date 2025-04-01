@@ -309,7 +309,7 @@ h6 {
   }
 
   .header .logo img {
-    max-height: 110px; /* Increased from 70px for better visibility on small devices */
+    max-height: 100px; /* Increased from 70px for better visibility on small devices */
   }
 }
 
