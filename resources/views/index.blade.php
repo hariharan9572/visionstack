@@ -508,7 +508,7 @@
     <!-- Testimonials Section -->
     <section id="testimonials" class="testimonials section dark-background">
 
-        <img src="assets/img/testimonials-bg.jpg" class="testimonials-bg" alt="">
+        <img src="assets/img/jean-claude-joanna-9_T5wq3FRwg-unsplash.jpg" class="testimonials-bg" alt="">
 
         <div class="container" data-aos="fade-up" data-aos-delay="100">
 
