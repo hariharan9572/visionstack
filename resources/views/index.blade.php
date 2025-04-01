@@ -105,7 +105,7 @@
             <div class="row gy-4">
                 <div class="col-lg-6" data-aos="fade-up" data-aos-delay="100">
                     <h3>Empowering businesses with innovative software solutions and SaaS platforms</h3>
-                    <img src="assets/img/about.jpg" class="img-fluid rounded-4 mb-4" alt="">
+                    <img src="assets/img/douglas-lopes-OQT9s7fHeO0-unsplash.jpg" class="img-fluid rounded-4 mb-4" alt="">
                     <p>At Visionstack, we develop custom software and SaaS applications that help businesses optimize operations, increase productivity, and drive growth. Our solutions are designed to scale with your business needs while maintaining enterprise-grade security and performance.</p>
                     <p>With expertise in cloud technology, API integrations, and microservices architecture, we provide end-to-end software development services from initial consultation to deployment and ongoing support. We're committed to delivering high-quality solutions that address your unique business challenges.</p>
                 </div>
@@ -238,7 +238,7 @@
                 <div class="col-xl-4 col-md-6" data-aos="zoom-in" data-aos-delay="400">
                     <div class="service-item">
                         <div class="img">
-                            <img src="assets/img/services-3.jpg" class="img-fluid" alt="">
+                            <img src="assets/img/blog-3.jpg" class="img-fluid" alt="">
                         </div>
                         <div class="details position-relative">
                             <div class="icon">
@@ -348,7 +348,7 @@
                             </p>
                         </div>
                         <div class="col-lg-6 order-1 order-lg-2 text-center">
-                            <img src="assets/img/working-1.jpg" alt="" class="img-fluid">
+                            <img src="assets/img/annie-spratt-QckxruozjRg-unsplash.jpg" alt="" class="img-fluid">
                         </div>
                     </div>
                 </div><!-- End Tab Content Item -->
@@ -371,7 +371,7 @@
                             </ul>
                         </div>
                         <div class="col-lg-6 order-1 order-lg-2 text-center">
-                            <img src="assets/img/working-2.jpg" alt="" class="img-fluid">
+                            <img src="assets/img/anthony-riera--ZZ7I31c0B8-unsplash.jpg" alt="" class="img-fluid">
                         </div>
                     </div>
                 </div><!-- End Tab Content Item -->
@@ -415,7 +415,7 @@
                             </ul>
                         </div>
                         <div class="col-lg-6 order-1 order-lg-2 text-center">
-                            <img src="assets/img/working-4.jpg" alt="" class="img-fluid">
+                            <img src="assets/img/farzad-p-xSl33Wxyc-unsplash.jpg" alt="" class="img-fluid">
                         </div>
                     </div>
                 </div><!-- End Tab Content Item -->
