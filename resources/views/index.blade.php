@@ -25,7 +25,7 @@
     <link href="{{ asset('assets/vendor/swiper/swiper-bundle.min.css') }}" rel="stylesheet">
 
     <!-- Main CSS File -->
-    <link href="{{ asset('css/main.css') }}" rel="stylesheet">
+    <link href="{{ asset('css/main.css') }}?v={{ filemtime(public_path('css/main.css')) }}" rel="stylesheet">
 
     <!-- =======================================================
     * Template Name: Visionstack
@@ -1035,7 +1035,7 @@
 <script src="assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
 
 <!-- Main JS File -->
-<script src="{{ asset('js/main.js') }}"></script>
+<script src="{{ asset('js/main.js') }}?v={{ filemtime(public_path('js/main.js')) }}"></script>
 <script src="https://cdn.jsdelivr.net/npm/typed.js@2.0.12"></script>
 </body>
 
