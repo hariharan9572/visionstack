@@ -231,10 +231,10 @@ h6 {
   --heading-color: #ffffff;
   color: var(--default-color);
   background-color: var(--background-color);
-  padding: 20px 0;
+  padding: 5px 0; /* Further reduced from 10px to 5px */
   transition: all 0.5s;
   z-index: 997;
-  height: 100px; /* Set a fixed height for the header */
+  height: 60px; /* Further reduced from 80px to 60px */
   display: flex;
   align-items: center;
 }
@@ -246,7 +246,7 @@ h6 {
 }
 
 .header .logo img {
-  max-height: 150px; /* Reduce max-height to fit within header */
+  max-height: 150px; /* Keeping logo size the same */
   margin-right: 8px;
   width: auto;
   object-fit: contain;
@@ -280,7 +280,7 @@ h6 {
 
 @media (max-width: 1200px) {
   .header {
-    height: 120px; /* Increased from 100px to accommodate larger logo */
+    height: 80px; /* Reduced from 100px to 80px */
   }
 
   .header .logo {
@@ -288,7 +288,7 @@ h6 {
   }
 
   .header .logo img {
-    max-height: 110px; /* Significantly increased from 90px for more prominence */
+    max-height: 110px; /* Keeping the same as before */
   }
 
   .header .cta-btn {
@@ -305,11 +305,11 @@ h6 {
 /* Additional breakpoint for very small screens */
 @media (max-width: 576px) {
   .header {
-    height: 80px; /* Increased from 80px */
+    height: 60px; /* Reduced from 70px to 60px */
   }
 
   .header .logo img {
-    max-height: 100px; /* Increased from 70px for better visibility on small devices */
+    max-height: 100px; /* Keeping the same as before */
   }
 }
 
@@ -350,7 +350,7 @@ h6 {
 
   .navmenu>ul>li {
     white-space: nowrap;
-    padding: 15px 14px;
+    padding: 8px 12px; /* Reduced from 10px 14px to 8px 12px */
   }
 
   .navmenu>ul>li:last-child {
@@ -360,7 +360,7 @@ h6 {
   .navmenu a,
   .navmenu a:focus {
     color: var(--nav-color);
-    font-size: 13px;
+    font-size: 12px; /* Reduced from 13px to 12px */
     padding: 0 2px;
     font-family: var(--nav-font);
     font-weight: 500;
@@ -885,7 +885,7 @@ section,
   color: var(--default-color);
   background-color: var(--background-color);
   padding: 60px 0;
-  scroll-margin-top: 90px;
+  scroll-margin-top: 70px; /* Reduced from 90px to 70px to account for smaller header */
   overflow: clip;
 }
 
@@ -893,7 +893,7 @@ section,
 
   section,
   .section {
-    scroll-margin-top: 76px;
+    scroll-margin-top: 66px; /* Reduced from 76px to 66px */
   }
 }
 
@@ -1012,7 +1012,7 @@ section,
   transition: 0.5s;
   margin-left: 25px;
   font-weight: 400;
-  color: var(--default-color);
+  color: var (--default-color);
 }
 
 .hero .btn-watch-video i {
