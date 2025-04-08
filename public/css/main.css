@@ -321,8 +321,8 @@ h6 {
 ------------------------------*/
 .scrolled .header {
   --background-color: rgba(20, 20, 20, 0.7); /* Changed to light black tint with transparency */
-  backdrop-filter: blur(8px);
-  -webkit-backdrop-filter: blur(8px);
+  /*backdrop-filter: blur(8px);*/
+  /*-webkit-backdrop-filter: blur(8px);*/
   border-bottom: 1px solid rgba(255, 255, 255, 0.1); /* Subtle light border */
   box-shadow: 0 4px 20px rgba(0, 0, 0, 0.15); /* Slight shadow for depth */
 }
