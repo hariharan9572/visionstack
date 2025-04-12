@@ -4,7 +4,7 @@
 <head>
     <meta charset="utf-8">
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
-    <title>Visionstack - Custom Software & SaaS Solutions</title>
+    <title>Visionstack - Expert Web Development, Custom Software & SaaS Solutions</title>
     <meta name="description" content="Visionstack provides enterprise-grade custom software development and SaaS solutions to help businesses optimize operations and drive growth.">
     <meta name="keywords" content="SaaS, Software Development, Cloud Solutions, API Integration, Custom Applications, Digital Transformation">
 
