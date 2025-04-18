@@ -87,7 +87,7 @@
         <img src="assets/img/lee-campbell-DtDlVpy-vvQ-unsplash.jpg" alt="" data-aos="fade-in">
 
         <div class="container d-flex flex-column align-items-center">
-            <h2 data-aos="fade-up" data-aos-delay="100"><span class="typed transparent-text" data-typed-items="Visionstack, Enterprise SaaS Solutions, Cloud Applications, Custom Software, Digital Transformation, API Integrations"></span></h2>
+            <h2 data-aos="fade-up" data-aos-delay="100"><span class="typed transparent-text" data-typed-items="Visionstack, Website Development, UI/UX Design, Digital Marketing, Enterprise SaaS Solutions, Cloud Applications, Custom Software, Digital Transformation, API Integrations"></span></h2>
             <p data-aos="fade-up" data-aos-delay="200">Transforming businesses with innovative software solutions and SaaS platforms</p>
             <div class="d-flex mt-4" data-aos="fade-up" data-aos-delay="300">
                 <a href="#about" class="btn-get-started">Get Started</a>
@@ -105,23 +105,24 @@
 
             <div class="row gy-4">
                 <div class="col-lg-6" data-aos="fade-up" data-aos-delay="100">
-                    <h3>Empowering businesses with innovative software solutions and SaaS platforms</h3>
+                    <h3>Empowering businesses with innovative website development, UI/UX design, digital marketing, software solutions and SaaS platforms</h3>
                     <img src="assets/img/alex-kotliarskyi-QBpZGqEMsKg-unsplash.jpg" class="img-fluid rounded-4 mb-4" alt="">
-                    <p>At Visionstack, we develop custom software and SaaS applications that help businesses optimize operations, increase productivity, and drive growth. Our solutions are designed to scale with your business needs while maintaining enterprise-grade security and performance.</p>
-                    <p>With expertise in cloud technology, API integrations, and microservices architecture, we provide end-to-end software development services from initial consultation to deployment and ongoing support. We're committed to delivering high-quality solutions that address your unique business challenges.</p>
+                    <p>At Visionstack, we develop custom software, SaaS applications, modern websites, engaging UI/UX, and digital marketing strategies that help businesses optimize operations, increase productivity, and drive growth. Our solutions are designed to scale with your business needs while maintaining enterprise-grade security and performance.</p>
+                    <p>With expertise in website development, UI/UX design, digital marketing, cloud technology, API integrations, and microservices architecture, we provide end-to-end software development services from initial consultation to deployment and ongoing support. We're committed to delivering high-quality solutions that address your unique business challenges.</p>
                 </div>
                 <div class="col-lg-6" data-aos="fade-up" data-aos-delay="250">
                     <div class="content ps-0 ps-lg-5">
                         <p class="fst-italic">
-                            Visionstack specializes in developing scalable, secure, and user-friendly software solutions that drive business innovation and efficiency.
+                            Visionstack specializes in developing scalable, secure, and user-friendly website, UI/UX, digital marketing, and software solutions that drive business innovation and efficiency.
                         </p>
                         <ul>
-                            <li><i class="bi bi-check-circle-fill"></i> <span>Custom software development focused on your unique business requirements</span></li>
+                            <li><i class="bi bi-check-circle-fill"></i> <span>Website development and UI/UX design focused on your unique business requirements</span></li>
+                            <li><i class="bi bi-check-circle-fill"></i> <span>Digital marketing strategies to grow your online presence</span></li>
                             <li><i class="bi bi-check-circle-fill"></i> <span>Cloud-based SaaS platforms with flexible subscription models</span></li>
                             <li><i class="bi bi-check-circle-fill"></i> <span>Enterprise-grade security and compliance with industry standards to protect your valuable business data while ensuring regulatory compliance</span></li>
                         </ul>
                         <p>
-                            Our team of experienced developers, designers, and product specialists work collaboratively to deliver solutions that not only meet your current needs but can also scale with your business growth and adapt to future requirements.
+                            Our team of experienced developers, designers, digital marketers, and product specialists work collaboratively to deliver solutions that not only meet your current needs but can also scale with your business growth and adapt to future requirements.
                         </p>
 
                         <div class="position-relative mt-4">
@@ -494,7 +495,37 @@
 
             <div class="row gy-4">
 
+                <div class="col-md-6" data-aos="fade-up" data-aos-delay="50">
+                    <div class="service-item d-flex position-relative h-100">
+                        <i class="bi bi-window icon flex-shrink-0"></i>
+                        <div>
+                            <h4 class="title"><a href="#" class="stretched-link">Website Development</a></h4>
+                            <p class="description">Modern, responsive websites tailored to your brand and business goals, optimized for performance and user experience.</p>
+                        </div>
+                    </div>
+                </div><!-- End Service Item -->
+
+                <div class="col-md-6" data-aos="fade-up" data-aos-delay="75">
+                    <div class="service-item d-flex position-relative h-100">
+                        <i class="bi bi-easel icon flex-shrink-0"></i>
+                        <div>
+                            <h4 class="title"><a href="#" class="stretched-link">UI/UX Design</a></h4>
+                            <p class="description">Creative and user-centric UI/UX design services to ensure your digital products are intuitive, engaging, and effective.</p>
+                        </div>
+                    </div>
+                </div><!-- End Service Item -->
+
                 <div class="col-md-6" data-aos="fade-up" data-aos-delay="100">
+                    <div class="service-item d-flex position-relative h-100">
+                        <i class="bi bi-megaphone icon flex-shrink-0"></i>
+                        <div>
+                            <h4 class="title"><a href="#" class="stretched-link">Digital Marketing</a></h4>
+                            <p class="description">Comprehensive digital marketing solutions including SEO, SEM, and social media to grow your online presence and reach your target audience.</p>
+                        </div>
+                    </div>
+                </div><!-- End Service Item -->
+
+                <div class="col-md-6" data-aos="fade-up" data-aos-delay="200">
                     <div class="service-item d-flex position-relative h-100">
                         <i class="bi bi-code-slash icon flex-shrink-0"></i>
                         <div>
@@ -504,7 +535,7 @@
                     </div>
                 </div><!-- End Service Item -->
 
-                <div class="col-md-6" data-aos="fade-up" data-aos-delay="200">
+                <div class="col-md-6" data-aos="fade-up" data-aos-delay="300">
                     <div class="service-item d-flex position-relative h-100">
                         <i class="bi bi-cloud-arrow-up icon flex-shrink-0"></i>
                         <div>
@@ -514,7 +545,7 @@
                     </div>
                 </div><!-- End Service Item -->
 
-                <div class="col-md-6" data-aos="fade-up" data-aos-delay="300">
+                <div class="col-md-6" data-aos="fade-up" data-aos-delay="400">
                     <div class="service-item d-flex position-relative h-100">
                         <i class="bi bi-diagram-3 icon flex-shrink-0"></i>
                         <div>
@@ -524,7 +555,7 @@
                     </div>
                 </div><!-- End Service Item -->
 
-                <div class="col-md-6" data-aos="fade-up" data-aos-delay="400">
+                <div class="col-md-6" data-aos="fade-up" data-aos-delay="500">
                     <div class="service-item d-flex position-relative h-100">
                         <i class="bi bi-phone icon flex-shrink-0"></i>
                         <div>
@@ -534,7 +565,7 @@
                     </div>
                 </div><!-- End Service Item -->
 
-                <div class="col-md-6" data-aos="fade-up" data-aos-delay="500">
+                <div class="col-md-6" data-aos="fade-up" data-aos-delay="600">
                     <div class="service-item d-flex position-relative h-100">
                         <i class="bi bi-database-check icon flex-shrink-0"></i>
                         <div>
@@ -544,7 +575,7 @@
                     </div>
                 </div><!-- End Service Item -->
 
-                <div class="col-md-6" data-aos="fade-up" data-aos-delay="600">
+                <div class="col-md-6" data-aos="fade-up" data-aos-delay="700">
                     <div class="service-item d-flex position-relative h-100">
                         <i class="bi bi-headset icon flex-shrink-0"></i>
                         <div>
@@ -1038,6 +1069,9 @@
             <div class="col-lg-2 col-md-3 footer-links">
                 <h4>Our Services</h4>
                 <ul>
+                    <li><i class="bi bi-chevron-right"></i> <a href="#">Website Development</a></li>
+                    <li><i class="bi bi-chevron-right"></i> <a href="#">UI/UX Design</a></li>
+                    <li><i class="bi bi-chevron-right"></i> <a href="#">Digital Marketing</a></li>
                     <li><i class="bi bi-chevron-right"></i> <a href="#">Custom Software</a></li>
                     <li><i class="bi bi-chevron-right"></i> <a href="#">SaaS Development</a></li>
                     <li><i class="bi bi-chevron-right"></i> <a href="#">API Integration</a></li>
