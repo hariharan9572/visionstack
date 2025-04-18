@@ -84,7 +84,7 @@
     <!-- Hero Section -->
     <section id="hero" class="hero section dark-background">
 
-        <img src="assets/img/hero-bg.jpg" alt="" data-aos="fade-in">
+        <img src="assets/img/lee-campbell-DtDlVpy-vvQ-unsplash.jpg" alt="" data-aos="fade-in">
 
         <div class="container d-flex flex-column align-items-center">
             <h2 data-aos="fade-up" data-aos-delay="100"><span class="typed transparent-text" data-typed-items="Visionstack, Enterprise SaaS Solutions, Cloud Applications, Custom Software, Digital Transformation, API Integrations"></span></h2>
@@ -147,7 +147,7 @@
                     <div class="stats-item d-flex align-items-center w-100 h-100">
                         <i class="bi bi-emoji-smile color-blue flex-shrink-0"></i>
                         <div>
-                            <span data-purecounter-start="0" data-purecounter-end="232" data-purecounter-duration="1" class="purecounter"></span>
+                            <span data-purecounter-start="0" data-purecounter-end="20" data-purecounter-duration="1" class="purecounter"></span>
                             <p>Satisfied Clients</p>
                         </div>
                     </div>
@@ -157,7 +157,7 @@
                     <div class="stats-item d-flex align-items-center w-100 h-100">
                         <i class="bi bi-journal-richtext color-orange flex-shrink-0"></i>
                         <div>
-                            <span data-purecounter-start="0" data-purecounter-end="521" data-purecounter-duration="1" class="purecounter"></span>
+                            <span data-purecounter-start="0" data-purecounter-end="25" data-purecounter-duration="1" class="purecounter"></span>
                             <p>Software Projects</p>
                         </div>
                     </div>
@@ -167,7 +167,7 @@
                     <div class="stats-item d-flex align-items-center w-100 h-100">
                         <i class="bi bi-headset color-green flex-shrink-0"></i>
                         <div>
-                            <span data-purecounter-start="0" data-purecounter-end="1463" data-purecounter-duration="1" class="purecounter"></span>
+                            <span data-purecounter-start="0" data-purecounter-end="100" data-purecounter-duration="1" class="purecounter"></span>
                             <p>Support Hours</p>
                         </div>
                     </div>
@@ -177,7 +177,7 @@
                     <div class="stats-item d-flex align-items-center w-100 h-100">
                         <i class="bi bi-people color-pink flex-shrink-0"></i>
                         <div>
-                            <span data-purecounter-start="0" data-purecounter-end="35" data-purecounter-duration="1" class="purecounter"></span>
+                            <span data-purecounter-start="0" data-purecounter-end="1" data-purecounter-duration="1" class="purecounter"></span>
                             <p>Tech Experts</p>
                         </div>
                     </div>
@@ -201,6 +201,60 @@
         <div class="container" data-aos="fade-up" data-aos-delay="100">
 
             <div class="row gy-5">
+
+                <!-- New Service Item: Website Development -->
+                <div class="col-xl-4 col-md-6" data-aos="zoom-in" data-aos-delay="500">
+                    <div class="service-item">
+                        <div class="img">
+                            <img src="assets/img/xiaoyu-li-IYYYLgMptNY-unsplash.jpg" class="img-fluid" alt="">
+                        </div>
+                        <div class="details position-relative">
+                            <div class="icon">
+                                <i class="bi bi-window"></i>
+                            </div>
+                            <a href="service-details.html" class="stretched-link">
+                                <h3>Website Development</h3>
+                            </a>
+                            <p>Modern, responsive websites tailored to your brand and business goals, optimized for performance and user experience.</p>
+                        </div>
+                    </div>
+                </div><!-- End Service Item -->
+
+                <!-- New Service Item: UI/UX Design -->
+                <div class="col-xl-4 col-md-6" data-aos="zoom-in" data-aos-delay="600">
+                    <div class="service-item">
+                        <div class="img">
+                            <img src="assets/img/eftakher-alam-i1VQZsU86ok-unsplash.jpg" class="img-fluid" alt="">
+                        </div>
+                        <div class="details position-relative">
+                            <div class="icon">
+                                <i class="bi bi-easel"></i>
+                            </div>
+                            <a href="service-details.html" class="stretched-link">
+                                <h3>UI/UX Design</h3>
+                            </a>
+                            <p>Creative and user-centric UI/UX design services to ensure your digital products are intuitive, engaging, and effective.</p>
+                        </div>
+                    </div>
+                </div><!-- End Service Item -->
+
+                <!-- New Service Item: Digital Marketing -->
+                <div class="col-xl-4 col-md-6" data-aos="zoom-in" data-aos-delay="700">
+                    <div class="service-item">
+                        <div class="img">
+                            <img src="assets/img/austin-distel-wD1LRb9OeEo-unsplash.jpg" class="img-fluid" alt="">
+                        </div>
+                        <div class="details position-relative">
+                            <div class="icon">
+                                <i class="bi bi-megaphone"></i>
+                            </div>
+                            <a href="service-details.html" class="stretched-link">
+                                <h3>Digital Marketing</h3>
+                            </a>
+                            <p>Comprehensive digital marketing solutions including SEO, SEM, and social media to grow your online presence and reach your target audience.</p>
+                        </div>
+                    </div>
+                </div><!-- End Service Item -->
 
                 <div class="col-xl-4 col-md-6" data-aos="zoom-in" data-aos-delay="200">
                     <div class="service-item">
@@ -809,7 +863,7 @@
 
                 <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="100">
                     <div class="member">
-                        <div class="pic"><img src="assets/img/team/team-1.jpg" class="img-fluid" alt=""></div>
+                        {{-- <div class="pic"><img src="assets/img/team/team-1.jpg" class="img-fluid" alt=""></div> --}}
                         <div class="member-info">
                             <h4>Hariharan</h4>
                             <span>Founder & CEO</span>
@@ -823,7 +877,7 @@
                     </div>
                 </div><!-- End Team Member -->
 
-                <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="200">
+                {{-- <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="200">
                     <div class="member">
                         <div class="pic"><img src="assets/img/team/team-2.jpg" class="img-fluid" alt=""></div>
                         <div class="member-info">
@@ -859,7 +913,7 @@
 
         </div>
 
-    </section><!-- /Team Section -->
+    </section><!-- /Team Section --> --}}
 
     <!-- Contact Section -->
     <section id="contact" class="contact section">
