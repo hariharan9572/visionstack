@@ -84,7 +84,8 @@
     <!-- Hero Section -->
     <section id="hero" class="hero section dark-background">
 
-        <img src="assets/img/galaxy-nature-aesthetic-background-starry-sky-mountain-remixed-media.png" alt="" data-aos="fade-in">
+        <img src="assets/img/galaxy-nature-aesthetic-background-starry-sky-mountain-remixed-media.jpg" alt="" data-aos="fade-in">
+        <img src="assets/img/visionstack-galaxy-nature-aesthetic-background-starry-sky-mountain-remixed-media.png" alt="" data-aos="fade-in">
 
         {{-- <div class="container d-flex flex-column align-items-center">
             <h2 data-aos="fade-up" data-aos-delay="100"><span class="typed transparent-text" data-typed-items="Visionstack, Website Development, UI/UX Design, Digital Marketing, Enterprise SaaS Solutions, Cloud Applications, Custom Software, Digital Transformation, API Integrations"></span></h2>
